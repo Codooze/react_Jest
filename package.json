@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "test": "jest --detectOpenHandles --watchAll"
+    "test": "jest --detectOpenHandles --watchAll",
+    "coverage": "jest --coverage --detectOpenHandles"
   },
   "dependencies": {
     "@swc/core": "^1.3.52",
