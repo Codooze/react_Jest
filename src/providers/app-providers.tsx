@@ -15,3 +15,4 @@ export const AppProviders = ({ children }: { children: React.ReactNode }) => {
     </ThemeProvider>
   );
 };
+//https://testing-library.com/docs/react-testing-library/setup/
