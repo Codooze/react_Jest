@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter should render correctly 1`] = `
+<div>
+  <div>
+    <h1>
+      0
+    </h1>
+    <button>
+      Increment
+    </button>
+    <input
+      name="amount"
+      type="number"
+      value="0"
+    />
+    <button>
+      Set
+    </button>
+  </div>
+</div>
+`;

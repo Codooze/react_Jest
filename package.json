@@ -11,6 +11,9 @@
     "coverage": "jest --coverage --detectOpenHandles --watchAll"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.12.1",
     "@swc/core": "^1.3.52",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
